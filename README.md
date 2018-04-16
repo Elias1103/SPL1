@@ -12,3 +12,4 @@
 
 * git config erstellt
 * git repository clonen
+* git terminal ausprobiert
