@@ -1,5 +1,4 @@
 # SPL1
-## Elias T.
 ### Woche 1: 16.04.2018
 
 * visual studio installiert
