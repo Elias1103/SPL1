@@ -7,6 +7,10 @@
 ## Skills:
 * driving Motorcycle
 * fishing
-* programming
 * snowboarding
 * gaming
+
+## Programming Skills:
+* Java
+* Python
+* HTML
