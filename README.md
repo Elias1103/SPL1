@@ -8,7 +8,7 @@
 * github Erste Schritte
 * git Grundlagen
 
-## Lokales Arbeite mit gi
+## Lokales Arbeite mit git
 
 * git config erstellt
 * git repository clonen
