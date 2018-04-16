@@ -2,8 +2,8 @@
 
 ## Befehlsübersicht
 
-* hostname (Hostnamenkoniguration)
-* date (Systemdatum/-zeit anzeigen)
-* ip (Zeige Netzwerkkonfigurtion)
-* locate (Suche Datei im Index)
-* ssh (ssh Verbindung)
+1. hostname (Hostnamenkoniguration)
+2. date (Systemdatum/-zeit anzeigen)
+3. ip (Zeige Netzwerkkonfigurtion)
+4. locate (Suche Datei im Index)
+5. ssh (ssh Verbindung)
