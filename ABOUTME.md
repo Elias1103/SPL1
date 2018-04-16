@@ -1,10 +1,10 @@
-#About Me
+# About Me
 * Name: Elias
 * School: HTL-Leoben
 * class: SPL
 * Group: 3
 
-##Skills:
+## Skills:
 * driving Motorcycle
 * fishing
 * programming
